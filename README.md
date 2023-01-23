@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [QR Code demo](https://jordanheve.github.io/Profile-card-component/)
+- Live Site URL: [Profile Card](https://jordanheve.github.io/Profile-card-component/)
 
 ### Built with
 
